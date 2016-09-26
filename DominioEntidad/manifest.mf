@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: pe.gob.sunat.tecnologia3.arquitectura.framework.desktop.dominio
+OpenIDE-Module-Localizing-Bundle: pe/gob/sunat/tecnologia3/arquitectura/framework/desktop/dominio/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

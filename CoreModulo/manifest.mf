@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+AutoUpdate-Essential-Module: true
+OpenIDE-Module: pe.gob.sunat.tecnologia3.arquitectura.framework.desktop.core
+OpenIDE-Module-Install: pe/gob/sunat/tecnologia3/arquitectura/framework/desktop/core/inicio/Installer.class
+OpenIDE-Module-Localizing-Bundle: pe/gob/sunat/tecnologia3/arquitectura/framework/desktop/core/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0

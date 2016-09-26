@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>pe.gob.sunat.tecnologia3.arquitectura.framework.desktop.sqlite</code-name-base>
+            <suite-component/>
+            <module-dependencies>
+                <dependency>
+                    <code-name-base>org.netbeans.libs.junit4</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.16.1</specification-version>
+                    </run-dependency>
+                </dependency>
+                <dependency>
+                    <code-name-base>org.openide.filesystems</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>9.8.1</specification-version>
+                    </run-dependency>
+                </dependency>
+            </module-dependencies>
+            <public-packages>
+                <package>org.sqlite</package>
+                <package>org.sqlite.core</package>
+                <package>org.sqlite.date</package>
+                <package>org.sqlite.javax</package>
+                <package>org.sqlite.jdbc3</package>
+                <package>org.sqlite.jdbc4</package>
+                <package>org.sqlite.util</package>
+                <package>pe.gob.sunat.tecnologia3.arquitectura.framework.desktop.sqlite</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/sqlite-jdbc-3.8.11.2.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/sqlite-jdbc-3.8.11.2.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>
